@@ -57,11 +57,16 @@ TODO:
 
 TODO: (try it according to References)  
 
+## Integrate with VS code
+
+TODO: (try it according to References)  
+
 ## References
 
 [The Haskell Tool Stack](https://docs.haskellstack.org/en/stable/README/)  
 [Stack in Hackage](http://hackage.haskell.org/package/stack)  
 [My Windows + Haskell setup](https://blog.ramdoot.in/my-windows-haskell-setup-6bd769e9c51d)  
-[IHaskell on Windows!](https://blog.ramdoot.in/ihaskell-on-windows-c549e6442262)
+[IHaskell on Windows!](https://blog.ramdoot.in/ihaskell-on-windows-c549e6442262)  
+[Setting up Haskell in VS Code on macOS](https://medium.com/@dogwith1eye/setting-up-haskell-in-vs-code-on-macos-d2cc1ce9f60a)  
 
 [**Convention in the document**](convention.md)  
